@@ -1,12 +1,14 @@
 <p align="center" width="300">
-   <h1 align="center">Hi!👋 I'm <a href="https://www.linkedin.com/in/maria-morales-reina" title="See my LinkedIn profile" target="_blank">Maria Morales</a></h1>
+   <h1 align="center">Hi!👋 I'm <a href="https://www.linkedin.com/in/maria-morales-reina" title="See my LinkedIn profile" target="_blank">Maria</a></h1>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/maria-morales-reina" title="See my LinkedIn profile" target="_blank"><img src="https://img.shields.io/badge/-marmorrei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-morales-reina/" alt="marmorrei"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/marmorrei" title="Follow me on GitHub" target="_blank"><img src="https://img.shields.io/github/followers/marmorrei?label=follow&style=social" alt="marmorrei"/></a>&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=marmorrei&label=Profile%20views&color=0e75b6&style=flat" alt="marmorrei" />
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/maria-morales-reina" target="_blank"><img src="https://img.shields.io/badge/Maria%20Morales%20Reina-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://github.com/marmorrei" target="_blank"><img src="https://img.shields.io/github/followers/marmorrei?label=marmorrei&style=social" alt="GitHub"></a>&nbsp;&nbsp;
+<a href="https://github.com/marmorrei" target="_blank"><img src="https://komarev.com/ghpvc/?username=marmorrei&label=Visitors&color=EC8E2C&style=flat" alt="GitHub views"></a>
+
+</div>
 
 ```typescript
 const marmorrei: TWebDeveloper = {
