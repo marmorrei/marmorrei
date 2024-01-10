@@ -3,12 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maria-morales-reina" title="See my LinkedIn profile" target="_blank">
-    <img src="https://img.shields.io/badge/-marmorrei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-morales-reina/" alt="marmorrei"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/marmorrei" title="Follow me on GitHub" target="_blank">
-    <img src="https://img.shields.io/github/followers/marmorrei?label=follow&style=social" alt="marmorrei"/>
-  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/maria-morales-reina" title="See my LinkedIn profile" target="_blank"><img src="https://img.shields.io/badge/-marmorrei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-morales-reina/" alt="marmorrei"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/marmorrei" title="Follow me on GitHub" target="_blank"><img src="https://img.shields.io/github/followers/marmorrei?label=follow&style=social" alt="marmorrei"/></a>&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=marmorrei&label=Profile%20views&color=0e75b6&style=flat" alt="marmorrei" />
 </p>
 
