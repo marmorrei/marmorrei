@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <h1 align="center">Hi!👋 I'm <a href="https://www.linkedin.com/in/maria-morales-reina" title="See my LinkedIn profile" target="_blank">Maria</a></h1>
+   <h1 align="center">Hi! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm <a href="https://www.linkedin.com/in/maria-morales-reina" title="See my LinkedIn profile" target="_blank">Maria</a></h1>
 </p>
 
 <div align="center">
