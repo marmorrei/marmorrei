@@ -16,10 +16,10 @@ const marmorrei: TWebDeveloper = {
     technologies: {
         frontend: {
             js: ["React"],
-            css: ["TailwindCSS", "Bootstrap"]
+            css: ["Styled Components", "TailwindCSS", "Bootstrap"]
         }
     },
-    misc: ["Supabase", "SonarCloud", "AtomicDesignSystem", "AgileMethodologies"],
+    misc: ["Supabase", "SonarCloud", "AtomicDesignSystem", "AgileMethodologies", "Storybook"],
 };
 ```
 <div align="center"><a href="https://github.com/marmorrei/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=marmorrei&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="marmorrei's github stats" /></a>  <a href="https://github.com/marmorrei/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marmorrei&layout=compact&theme=react&hide_border=false" /></a></div>
