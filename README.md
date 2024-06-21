@@ -15,7 +15,7 @@ const marmorrei: TWebDeveloper = {
     code: ["Javascript", "TypeScript", "HTML", "CSS"],
     technologies: {
         frontend: {
-            js: ["React"],
+            js: ["React", "Next.js"],
             css: ["Styled Components", "TailwindCSS", "Bootstrap"]
         }
     },
